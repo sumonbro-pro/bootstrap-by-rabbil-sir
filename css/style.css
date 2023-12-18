@@ -1,0 +1,30 @@
+:root {
+  --primary: #61aa43;
+}
+body {
+    background: #F5F5F5;
+}
+.playButton {
+  width: 5vw;
+}
+.hero {
+  background-image: url("../uploads/learning-web-development.gif");
+  overflow: hidden;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero-col {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20vh 0;
+}
+.btn-primary {
+    background: #61aa43;
+    color: white;
+    border: none;
+}
+.paymentMethods {
+  width: 30vw;
+  margin-bottom: 2vw;
+}

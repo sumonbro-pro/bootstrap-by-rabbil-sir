@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="243" viewBox="0 0 243 243">
+    <g id="Group_16" data-name="Group 16" transform="translate(2032 3134)">
+        <g id="Group_15" data-name="Group 15">
+            <circle id="Ellipse_1" data-name="Ellipse 1" cx="121.5" cy="121.5" r="121.5" transform="translate(-2032 -3134)" fill="#61aa43"/>
+            <text id="_" data-name="{  }" transform="translate(-1991 -2974)" fill="#fff" font-size="133" font-family="ArialMT, Arial"><tspan x="0" y="0" fill="#fff">{</tspan><tspan y="0" xml:space="preserve" fill="#000">  </tspan><tspan y="0" fill="#fff">}</tspan></text>
+            <text id="JS" transform="translate(-1950 -3002)" fill="#fff" font-size="31" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">MERN</tspan></text>
+        </g>
+    </g>
+</svg>
